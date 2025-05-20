@@ -12,9 +12,10 @@ System Drive: 500GB HDD
 Additional Drive: 240GB SSD
 
 [Proxmox configuration]
-
+[Docker configuration]
 ## Services:
-[Docker]
+[NAS server]
 
-[Docker]: https://github.com/S1m6n/homelab/blob/main/docker.md
+[Docker configuration]: https://github.com/S1m6n/homelab/blob/main/docker.md
 [Proxmox configuration]: https://github.com/S1m6n/homelab/blob/main/proxmox.md
+[NAS server]: https://github.com/S1m6n/homelab/blob/main/openmediavault.md
