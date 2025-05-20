@@ -35,29 +35,29 @@ This will give the VM direct access to the disk.
 After logging in, changing the admin password, and performing system updates, I completed the following steps:
 
 - Created user `s1m6n`  
-![2](Screenshots/openmediavault/3.png)
+![2](Screenshots/openmediavault/2.png)
 
 - Formatted the disk  
-![3](Screenshots/openmediavault/4.png)  
-![4](Screenshots/openmediavault/5.png)
+![3](Screenshots/openmediavault/3.png)  
+![4](Screenshots/openmediavault/4.png)
 
 - Created the file system  
-![5](Screenshots/openmediavault/6.png)  
-![6](Screenshots/openmediavault/7.png)
+![5](Screenshots/openmediavault/5.png)  
+![6](Screenshots/openmediavault/6.png)
 
 - Mounted the file system  
-![7](Screenshots/openmediavault/8.png)  
+![7](Screenshots/openmediavault/7.png)  
 Result:  
-![8](Screenshots/openmediavault/9.png)
+![8](Screenshots/openmediavault/8.png)
 
 - Enabled SMB  
-![9](Screenshots/openmediavault/10.png)
+![9](Screenshots/openmediavault/9.png)
 
 - Created a shared folder  
-![10](Screenshots/openmediavault/11.png)  
-![11](Screenshots/openmediavault/12.png)
+![10](Screenshots/openmediavault/10.png)  
+![11](Screenshots/openmediavault/11.png)
 
 Thanks to this configuration, the newly created network drive can be mounted using the credentials of the user `s1m6n`.  
-![12](Screenshots/openmediavault/13.png)  
-![13](Screenshots/openmediavault/14.png)  
-![14](Screenshots/openmediavault/15.png)
+![12](Screenshots/openmediavault/12.png)  
+![13](Screenshots/openmediavault/13.png)  
+![14](Screenshots/openmediavault/14.png)
